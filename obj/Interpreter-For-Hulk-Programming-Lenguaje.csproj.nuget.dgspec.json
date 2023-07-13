@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dnielpy\\Source\\Repos\\Interpreter-For-The-HULK-Programming-Language\\Interpreter-For-The-HULK-Programming-Language\\Interpreter-For-The-HULK-Programming-Language.csproj": {}
+    "C:\\Users\\dnielpy\\source\\repos\\Interpreter-For-The-HULK-Programming-Language\\Interpreter-For-Hulk-Programming-Lenguaje.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dnielpy\\Source\\Repos\\Interpreter-For-The-HULK-Programming-Language\\Interpreter-For-The-HULK-Programming-Language\\Interpreter-For-The-HULK-Programming-Language.csproj": {
+    "C:\\Users\\dnielpy\\source\\repos\\Interpreter-For-The-HULK-Programming-Language\\Interpreter-For-Hulk-Programming-Lenguaje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dnielpy\\Source\\Repos\\Interpreter-For-The-HULK-Programming-Language\\Interpreter-For-The-HULK-Programming-Language\\Interpreter-For-The-HULK-Programming-Language.csproj",
-        "projectName": "Interpreter-For-The-HULK-Programming-Language",
-        "projectPath": "C:\\Users\\dnielpy\\Source\\Repos\\Interpreter-For-The-HULK-Programming-Language\\Interpreter-For-The-HULK-Programming-Language\\Interpreter-For-The-HULK-Programming-Language.csproj",
+        "projectUniqueName": "C:\\Users\\dnielpy\\source\\repos\\Interpreter-For-The-HULK-Programming-Language\\Interpreter-For-Hulk-Programming-Lenguaje.csproj",
+        "projectName": "Interpreter-For-Hulk-Programming-Lenguaje",
+        "projectPath": "C:\\Users\\dnielpy\\source\\repos\\Interpreter-For-The-HULK-Programming-Language\\Interpreter-For-Hulk-Programming-Lenguaje.csproj",
         "packagesPath": "C:\\Users\\dnielpy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dnielpy\\Source\\Repos\\Interpreter-For-The-HULK-Programming-Language\\Interpreter-For-The-HULK-Programming-Language\\obj\\",
+        "outputPath": "C:\\Users\\dnielpy\\source\\repos\\Interpreter-For-The-HULK-Programming-Language\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dnielpy\\AppData\\Roaming\\NuGet\\NuGet.Config",

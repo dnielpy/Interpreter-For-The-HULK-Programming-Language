@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Interpreter-For-The-HULK-Programming-Language")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Interpreter-For-Hulk-Programming-Lenguaje")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Interpreter-For-The-HULK-Programming-Language")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Interpreter-For-The-HULK-Programming-Language")]
+[assembly: System.Reflection.AssemblyProductAttribute("Interpreter-For-Hulk-Programming-Lenguaje")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Interpreter-For-Hulk-Programming-Lenguaje")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

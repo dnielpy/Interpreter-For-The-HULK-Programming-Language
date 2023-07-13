@@ -1,0 +1,15 @@
+C:\Users\dnielpy\source\repos\Interpreter-For-Hulk-Programming-Lenguaje\Interpreter-For-Hulk-Programming-Lenguaje\bin\Debug\net6.0\Interpreter-For-Hulk-Programming-Lenguaje.exe
+C:\Users\dnielpy\source\repos\Interpreter-For-Hulk-Programming-Lenguaje\Interpreter-For-Hulk-Programming-Lenguaje\bin\Debug\net6.0\Interpreter-For-Hulk-Programming-Lenguaje.deps.json
+C:\Users\dnielpy\source\repos\Interpreter-For-Hulk-Programming-Lenguaje\Interpreter-For-Hulk-Programming-Lenguaje\bin\Debug\net6.0\Interpreter-For-Hulk-Programming-Lenguaje.runtimeconfig.json
+C:\Users\dnielpy\source\repos\Interpreter-For-Hulk-Programming-Lenguaje\Interpreter-For-Hulk-Programming-Lenguaje\bin\Debug\net6.0\Interpreter-For-Hulk-Programming-Lenguaje.dll
+C:\Users\dnielpy\source\repos\Interpreter-For-Hulk-Programming-Lenguaje\Interpreter-For-Hulk-Programming-Lenguaje\bin\Debug\net6.0\ref\Interpreter-For-Hulk-Programming-Lenguaje.dll
+C:\Users\dnielpy\source\repos\Interpreter-For-Hulk-Programming-Lenguaje\Interpreter-For-Hulk-Programming-Lenguaje\bin\Debug\net6.0\Interpreter-For-Hulk-Programming-Lenguaje.pdb
+C:\Users\dnielpy\source\repos\Interpreter-For-Hulk-Programming-Lenguaje\Interpreter-For-Hulk-Programming-Lenguaje\obj\Debug\net6.0\Interpreter-For-Hulk-Programming-Lenguaje.csproj.AssemblyReference.cache
+C:\Users\dnielpy\source\repos\Interpreter-For-Hulk-Programming-Lenguaje\Interpreter-For-Hulk-Programming-Lenguaje\obj\Debug\net6.0\Interpreter-For-Hulk-Programming-Lenguaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnielpy\source\repos\Interpreter-For-Hulk-Programming-Lenguaje\Interpreter-For-Hulk-Programming-Lenguaje\obj\Debug\net6.0\Interpreter-For-Hulk-Programming-Lenguaje.AssemblyInfoInputs.cache
+C:\Users\dnielpy\source\repos\Interpreter-For-Hulk-Programming-Lenguaje\Interpreter-For-Hulk-Programming-Lenguaje\obj\Debug\net6.0\Interpreter-For-Hulk-Programming-Lenguaje.AssemblyInfo.cs
+C:\Users\dnielpy\source\repos\Interpreter-For-Hulk-Programming-Lenguaje\Interpreter-For-Hulk-Programming-Lenguaje\obj\Debug\net6.0\Interpreter-For-Hulk-Programming-Lenguaje.csproj.CoreCompileInputs.cache
+C:\Users\dnielpy\source\repos\Interpreter-For-Hulk-Programming-Lenguaje\Interpreter-For-Hulk-Programming-Lenguaje\obj\Debug\net6.0\Interpreter-For-Hulk-Programming-Lenguaje.dll
+C:\Users\dnielpy\source\repos\Interpreter-For-Hulk-Programming-Lenguaje\Interpreter-For-Hulk-Programming-Lenguaje\obj\Debug\net6.0\ref\Interpreter-For-Hulk-Programming-Lenguaje.dll
+C:\Users\dnielpy\source\repos\Interpreter-For-Hulk-Programming-Lenguaje\Interpreter-For-Hulk-Programming-Lenguaje\obj\Debug\net6.0\Interpreter-For-Hulk-Programming-Lenguaje.pdb
+C:\Users\dnielpy\source\repos\Interpreter-For-Hulk-Programming-Lenguaje\Interpreter-For-Hulk-Programming-Lenguaje\obj\Debug\net6.0\Interpreter-For-Hulk-Programming-Lenguaje.genruntimeconfig.cache
