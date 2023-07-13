@@ -1,2 +1,2 @@
-# HULK-Havana-University-Language-for-Kompilers
+# HULK-The Strongest Compiler Ever
 just testing
